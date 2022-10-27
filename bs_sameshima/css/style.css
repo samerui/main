@@ -1,0 +1,45 @@
+.navbar{
+	width: 100%;
+	position: fixed;
+	z-index: 100;
+}
+.navbar-brand{
+	font-weight: 700;
+	font-size: 28px;
+}
+.product{
+	padding: 80px 0 10px 0;
+	text-align: center;
+	border-bottom: dashed 2px rgb(226, 176, 176);
+}
+.card-title{
+	font-weight: 600;
+}
+.card-text3{
+    color: gray;
+	font-weight: 500;
+}
+.btn-outline-success{
+	border-radius: 10px;
+}
+.gallery1{
+	padding: 100px 0 10px 0;
+	text-align: center;
+	border-bottom: dashed 2px rgb(226, 176, 176);
+	font-weight: 550;
+}
+.gallery{
+	padding-top: 20px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 500;
+}
+.form{
+	padding: 100px 0 10px 0;
+	text-align: center;
+	border-bottom: dashed 2px rgb(226, 176, 176);
+}
+
+footer .card-img-overlay{
+    background:rgba(0,0,0,0.5);
+}
