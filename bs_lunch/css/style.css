@@ -1,0 +1,14 @@
+.mylogo{
+    width: 120px;
+}
+.card-body{
+    background-color: rgb(229, 183, 168);
+}
+.btn-big{
+    padding:20px 40px;
+    font-size:1.4rem;
+    border-radius:0.5rem;
+}
+footer .card-img-overlay{
+    background:rgba(0,0,0,0.5);
+}
